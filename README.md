@@ -1,4 +1,3 @@
-````markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0f172a,50:1e3a8a,75:7e22ce,100:ec4899&height=260&section=header&text=Arkendra%20Choudhury&fontSize=48&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Clinical%20Governance%20%7C%20Spatial%20Intelligence%20%7C%20RegTech&descAlignY=58&descSize=18" width="100%" />
 </p>
@@ -110,51 +109,3 @@ Workflow Orchestration
 Graph-Based Infrastructure Intelligence
 Remote Sensing Systems
 AI-Assisted Regulatory Pipelines
-````
-
----
-
-# GitHub Statistics
-
-<p align="center">
-
-<img 
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=arkendrachoudhury-sys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=e2e8f0"
-/>
-
-<img 
-width="49%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=arkendrachoudhury-sys&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=ec4899&currStreakLabel=38bdf8"
-/>
-
-</p>
-
-<p align="center">
-
-<img 
-width="58%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkendrachoudhury-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=e2e8f0"
-/>
-
-</p>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20,24,30&height=3" 
-    width="100%"
-  />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,20:0072ff,40:7f00ff,60:ff00cc,80:ff6a00,100:facc15&height=140&section=footer"/>
-</p>
-
-<p align="center">
-  <i>
-    Turning complex regulatory frameworks and spatial systems into intelligent production-grade analytical infrastructure.
-  </i>
-</p>
-```
