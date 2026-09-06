@@ -1,48 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1e3a8a&height=160&section=header&text=Arkendra%20Narayan%20Choudhury&fontSize=38&fontColor=e2e8f0&fontAlignY=40&desc=Clinical%20Governance%20%C2%B7%20RegTech%20%C2%B7%20Spatial%20Intelligence&descAlignY=62&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e16,50:1e3a8a,100:d4a537&height=200&section=header&text=Arkendra%20Narayan%20Choudhury&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Clinical%20Governance%20%C2%B7%20RegTech%20%C2%B7%20Spatial%20Intelligence&descAlignY=58&descSize=15&descColor=d4a537" width="100%" alt="Arkendra Narayan Choudhury Header Banner" />
 
-<a href="https://www.linkedin.com/in/arkendranarayan-choudhury-735575229/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://orcid.org/0009-0002-6751-5351"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"/></a>
-<a href="mailto:arkendrachoudhury@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/arkendrachoudhury-sys"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<br/>
+
+<a href="https://www.linkedin.com/in/arkendranarayan-choudhury-735575229/" title="Connect on LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://orcid.org/0009-0002-6751-5351" title="View ORCID Profile">
+  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+</a>
+<a href="mailto:arkendrachoudhury@gmail.com" title="Send Email">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/arkendrachoudhury-sys" title="Explore GitHub Profile">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
 <br/>
 
-## About
+---
 
-I sit at the intersection of **clinical governance** and **technical automation** — currently the **Clinical Governance & Compliance Lead (IRB Secretary)** at **Tata Medical Center, Kolkata**, where I oversee regulatory workflows for 300+ oncology trial protocols. Alongside that, I build the RegTech and geospatial tooling that makes governance work faster and more reliable: automated compliance pipelines, live risk dashboards, and GIS-based spatial analysis.
+### 🏛️ About Me
 
-- 5.5+ years in clinical trial governance & regulatory affairs (ICMR, CDSCO, NDCT, ICH-GCP)
-- Building automation for audit-readiness, SAE tracking, and compliance reporting
-- Applying GIS / remote sensing to spatial resource and logistics problems
-- Peer reviewer for Elsevier journals (*Computers in Biology and Medicine*, *Computational Biology and Chemistry*)
-- Based in Kolkata, West Bengal, India
+I sit at the intersection of **clinical governance** and **technical automation** — currently serving as the **Clinical Governance & Compliance Lead (IRB Secretary)** at **Tata Medical Center, Kolkata**, overseeing regulatory workflows for **300+ oncology trial protocols**.
+
+Alongside governance leadership, I engineer RegTech and geospatial tooling that drives speed, precision, and audit-readiness across healthcare and logistics systems.
+
+- 📜 **5.5+ Years** in clinical trial governance & regulatory affairs (*ICMR, CDSCO, NDCT, ICH E6 (R3)*)
+- ⚡ **Automated RegTech**: Building pipelines for audit-readiness, SAE lifecycle management, and regulatory compliance
+- 🌐 **Spatial Intelligence**: Applying QGIS & Google Earth Engine to spatial resource and logistics optimization
+- 🔬 **Peer Reviewer**: Reviewing computational biology & healthcare models for *Elsevier* journals (*Computers in Biology and Medicine*, *Computational Biology and Chemistry*)
+- 📍 **Location**: Kolkata, West Bengal, India
 
 <br/>
 
-## Focus Areas
+---
 
-<table>
+### 🎯 Focus Areas
+
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="background-color: #0f1524; padding: 15px; border-radius: 8px;">
 
-**Clinical Governance & RegTech**
-- IRB / protocol workflow automation
-- SAE lifecycle & regulatory waiver tracking
-- NABH audit readiness & SOP standardization
-- Compliance analytics (Power BI, Looker Studio)
+#### 📋 Clinical Governance & RegTech
+- 🔄 **IRB & Protocol Automation**: Workflow acceleration & protocol tracking
+- 🛡️ **SAE Lifecycle**: Regulatory waiver tracking & automated risk reporting
+- 🏥 **NABH Audit Readiness**: Zero non-conformity SOP standardization
+- 📊 **Compliance Analytics**: Live dashboards (*Power BI, Looker Studio*)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="background-color: #0f1524; padding: 15px; border-radius: 8px;">
 
-**Spatial Intelligence**
-- Geospatial analytics with QGIS
-- Remote sensing via Google Earth Engine
-- Graph-based spatial logistics modelling
-- GIS automation & network analysis
+#### 🌍 Spatial Intelligence & GIS
+- 🛰️ **Geospatial Analytics**: Advanced spatial modeling with QGIS
+- 🛰️ **Remote Sensing**: Satellite imagery analysis via Google Earth Engine
+- 🕸️ **Logistics Modeling**: Graph-based network analysis & transport routing
+- ⚙️ **GIS Automation**: Automated spatial processing workflows
 
 </td>
 </tr>
@@ -50,50 +66,79 @@ I sit at the intersection of **clinical governance** and **technical automation*
 
 <br/>
 
-## Tech Stack
+---
+
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="Kotlin" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>
+| Category | Languages & Frameworks |
+| :--- | :--- |
+| **Development** | <a href="#" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/></a> &nbsp; <a href="#" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/></a> &nbsp; <a href="#" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React"/></a> &nbsp; <a href="#" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/></a> &nbsp; <a href="#" title="Kotlin"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin"/></a> &nbsp; <a href="#" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5"/></a> &nbsp; <a href="#" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3"/></a> &nbsp; <a href="#" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git"/></a> |
 
-</div>
+<br/>
 
-<div align="center">
-
-![QGIS](https://img.shields.io/badge/QGIS-31363F?style=flat-square&logo=qgis&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-31363F?style=flat-square&logo=googleearthengine&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-31363F?style=flat-square&logo=powerbi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-31363F?style=flat-square&logo=postgresql&logoColor=white)
+<a href="#" title="QGIS"><img src="https://img.shields.io/badge/QGIS-31363F?style=for-the-badge&logo=qgis&logoColor=589632" alt="QGIS"/></a>
+<a href="#" title="Google Earth Engine"><img src="https://img.shields.io/badge/Google_Earth_Engine-31363F?style=for-the-badge&logo=googleearthengine&logoColor=4285F4" alt="Google Earth Engine"/></a>
+<a href="#" title="Power BI"><img src="https://img.shields.io/badge/Power_BI-31363F?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI"/></a>
+<a href="#" title="SQL / PostgreSQL"><img src="https://img.shields.io/badge/SQL-31363F?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL"/></a>
+<a href="#" title="REDCap"><img src="https://img.shields.io/badge/REDCap-31363F?style=for-the-badge&logo=redcap&logoColor=B31B1B" alt="REDCap"/></a>
+<a href="#" title="Google Apps Script"><img src="https://img.shields.io/badge/Apps_Script-31363F?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google Apps Script"/></a>
 
 </div>
 
 <br/>
 
-## GitHub Activity
+---
+
+### 📊 Premium GitHub Activity Log
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arkendrachoudhury-sys&theme=minimal&hide_border=true&bg_color=ffffff&color=1e293b&line=1e3a8a&point=0f172a&area=true&area_color=94a3b8" width="100%" alt="Contribution Graph"/>
+
+#### 🌾 3D Grass Contribution Terrain
+*Contribution history rendered as 3D terrain landscape — taller, brighter growth marks peak activity.*
+
+<br/>
+
+<a href="https://github.com/arkendrachoudhury-sys" title="Click to view 3D Contribution Terrain on GitHub">
+  <img src="https://raw.githubusercontent.com/arkendrachoudhury-sys/arkendrachoudhury-sys/refs/heads/output/output.png" width="100%" alt="Arkendra Choudhury's 3D GitHub Contribution Terrain" style="border-radius:6px;" />
+</a>
+
+<br/><br/>
+
+#### 📈 Activity Metrics & Analytics Graph
+
+<br/>
+
+<a href="https://github.com/arkendrachoudhury-sys" title="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arkendrachoudhury-sys&theme=minimal&hide_border=true&bg_color=0a0e16&color=d4a537&line=1e3a8a&point=d4a537&area=true&area_color=1e3a8a" width="100%" alt="Arkendra's GitHub Contribution Activity Graph" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/arkendrachoudhury-sys" title="GitHub Stats Overview">
+  <img src="https://github-readme-stats.vercel.app/api?username=arkendrachoudhury-sys&show_icons=true&theme=dark&bg_color=0a0e16&title_color=d4a537&text_color=e2e8f0&icon_color=d4a537&border_color=1e3a8a" height="165" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/arkendrachoudhury-sys" title="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arkendrachoudhury-sys&theme=dark&background=0a0e16&ring=d4a537&fire=d4a537&currStreakLabel=d4a537&border=1e3a8a" height="165" alt="GitHub Streak Stats" />
+</a>
+
 </div>
 
 <br/>
 
-## Credentials
+---
 
-- GenAI Powered Data Analytics — Tata (Forage), 2026
-- Internal Audit & Risk Assessment — Goldman Sachs (Forage), 2026
-- PG Diploma, Quality Control Biologist — LSSSDC
-- Good Clinical Practice (GCP) Certification — The Global Health Network, 2022
-- Ethics Review of Health Research — NIE ICMR, 2023
+### 🎓 Credentials & Certifications
+
+- 🏅 **GenAI Powered Data Analytics** — Tata (*Forage*), 2026
+- 🏅 **Internal Audit & Risk Assessment** — Goldman Sachs (*Forage*), 2026
+- 📜 **PG Diploma, Quality Control Biologist** — LSSSDC
+- 🏥 **Good Clinical Practice (GCP) Certification** — The Global Health Network, 2022
+- ⚕️ **Ethics Review of Health Research** — NIE ICMR, 2023
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:1e3a8a&height=3" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:d4a537,100:0a0e16&height=4" width="100%" alt="Footer Divider" />
 </div>
