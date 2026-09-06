@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e16,50:1e3a8a,100:d4a537&height=200&section=header&text=Arkendra%20Narayan%20Choudhury&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Clinical%20Governance%20%C2%B7%20RegTech%20%C2%B7%20Spatial%20Intelligence&descAlignY=58&descSize=15&descColor=d4a537" width="100%" alt="Arkendra Narayan Choudhury Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e16,40:0f1524,80:1e3a8a,100:d4a537&height=220&section=header&text=Arkendra%20Narayan%20Choudhury&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Clinical%20Governance%20%C2%B7%20RegTech%20%C2%B7%20Spatial%20Intelligence&descAlignY=58&descSize=15&descColor=d4a537" width="100%" alt="Arkendra Narayan Choudhury Header Banner" />
 
 <br/>
 
@@ -21,7 +21,11 @@
 
 <br/>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a537,50:1e3a8a,100:0a0e16&height=80&section=footer" width="100%" alt="Wavy Divider" />
+</div>
+
+<br/>
 
 ### 🏛️ About Me
 
@@ -37,7 +41,11 @@ Alongside governance leadership, I engineer RegTech and geospatial tooling that 
 
 <br/>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e16,50:1e3a8a,100:d4a537&height=80&section=header" width="100%" alt="Wavy Divider" />
+</div>
+
+<br/>
 
 ### 🎯 Focus Areas
 
@@ -66,7 +74,11 @@ Alongside governance leadership, I engineer RegTech and geospatial tooling that 
 
 <br/>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a537,50:1e3a8a,100:0a0e16&height=80&section=footer" width="100%" alt="Wavy Divider" />
+</div>
+
+<br/>
 
 ### 🛠️ Tech Stack & Tooling
 
@@ -89,9 +101,13 @@ Alongside governance leadership, I engineer RegTech and geospatial tooling that 
 
 <br/>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e16,50:1e3a8a,100:d4a537&height=80&section=header" width="100%" alt="Wavy Divider" />
+</div>
 
-### 📊 Premium GitHub Activity Log
+<br/>
+
+### 📊 Activity & Contributions
 
 <div align="center">
 
@@ -127,7 +143,11 @@ Alongside governance leadership, I engineer RegTech and geospatial tooling that 
 
 <br/>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a537,50:1e3a8a,100:0a0e16&height=80&section=footer" width="100%" alt="Wavy Divider" />
+</div>
+
+<br/>
 
 ### 🎓 Credentials & Certifications
 
@@ -140,5 +160,5 @@ Alongside governance leadership, I engineer RegTech and geospatial tooling that 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:d4a537,100:0a0e16&height=4" width="100%" alt="Footer Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e16,50:1e3a8a,100:d4a537&height=120&section=footer" width="100%" alt="Footer Wavy Banner" />
 </div>
