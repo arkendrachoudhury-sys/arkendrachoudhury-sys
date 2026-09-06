@@ -122,40 +122,20 @@ Alongside governance leadership, I engineer RegTech and geospatial tooling that 
 
 <br/><br/>
 
-#### 📈 Activity Metrics & Analytics Graph
-
-<br/>
-
-<a href="https://github.com/arkendrachoudhury-sys" title="GitHub Activity Graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arkendrachoudhury-sys&theme=minimal&hide_border=true&bg_color=0a0e16&color=d4a537&line=1e3a8a&point=d4a537&area=true&area_color=1e3a8a" width="100%" alt="Arkendra's GitHub Contribution Activity Graph" />
+<a href="https://github.com/arkendrachoudhury-sys" title="GitHub Activity Heatmap">
+  <img src="https://ghchart.rshah.org/1e3a8a/arkendrachoudhury-sys" width="100%" alt="Arkendra's GitHub Contribution Heatmap" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/arkendrachoudhury-sys" title="GitHub Stats Overview">
-  <img src="https://github-readme-stats.vercel.app/api?username=arkendrachoudhury-sys&show_icons=true&theme=dark&bg_color=0a0e16&title_color=d4a537&text_color=e2e8f0&icon_color=d4a537&border_color=1e3a8a" height="165" alt="GitHub Stats" />
+<a href="https://github.com/arkendrachoudhury-sys" title="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkendrachoudhury-sys&theme=2077" width="49%" alt="Profile Details" />
 </a>
-<a href="https://github.com/arkendrachoudhury-sys" title="GitHub Streak Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arkendrachoudhury-sys&theme=dark&background=0a0e16&ring=d4a537&fire=d4a537&currStreakLabel=d4a537&border=1e3a8a" height="165" alt="GitHub Streak Stats" />
+<a href="https://github.com/arkendrachoudhury-sys" title="Productive Time">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arkendrachoudhury-sys&theme=2077&utcOffset=5.5" width="49%" alt="Productive Time" />
 </a>
 
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a537,50:1e3a8a,100:0a0e16&height=80&section=footer" width="100%" alt="Wavy Divider" />
-</div>
-
-<br/>
-
-### 🎓 Credentials & Certifications
-
-- 🏅 **GenAI Powered Data Analytics** — Tata (*Forage*), 2026
-- 🏅 **Internal Audit & Risk Assessment** — Goldman Sachs (*Forage*), 2026
-- 📜 **PG Diploma, Quality Control Biologist** — LSSSDC
-- 🏥 **Good Clinical Practice (GCP) Certification** — The Global Health Network, 2022
-- ⚕️ **Ethics Review of Health Research** — NIE ICMR, 2023
 
 <br/>
 
