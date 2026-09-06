@@ -125,15 +125,6 @@ Alongside governance leadership, I engineer RegTech and geospatial tooling that 
   <img src="https://ghchart.rshah.org/1e3a8a/arkendrachoudhury-sys" width="100%" alt="Arkendra's GitHub Contribution Heatmap" />
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/arkendrachoudhury-sys" title="Profile Summary">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkendrachoudhury-sys&theme=2077" width="49%" alt="Profile Summary" />
-</a>
-<a href="https://github.com/arkendrachoudhury-sys" title="Productive Hours">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arkendrachoudhury-sys&theme=2077&utcOffset=5.5" width="49%" alt="Productive Hours" />
-</a>
-
 </div>
 
 <br/>
