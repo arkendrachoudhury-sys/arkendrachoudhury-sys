@@ -1,111 +1,99 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0f172a,50:1e3a8a,75:7e22ce,100:ec4899&height=260&section=header&text=Arkendra%20Choudhury&fontSize=48&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Clinical%20Governance%20%7C%20Spatial%20Intelligence%20%7C%20RegTech&descAlignY=58&descSize=18" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arkendra-narayan-choudhury-735575229/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1e3a8a&height=160&section=header&text=Arkendra%20Narayan%20Choudhury&fontSize=38&fontColor=e2e8f0&fontAlignY=40&desc=Clinical%20Governance%20%C2%B7%20RegTech%20%C2%B7%20Spatial%20Intelligence&descAlignY=62&descSize=15" width="100%" />
 
-  <a href="https://orcid.org/0009-0002-6751-5351">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/arkendranarayan-choudhury-735575229/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://orcid.org/0009-0002-6751-5351"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"/></a>
+<a href="mailto:arkendrachoudhury@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/arkendrachoudhury-sys"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-  <a href="https://earthengine.google.com/">
-    <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white"/>
-  </a>
+</div>
 
-  <a href="https://www.qgis.org/">
-    <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-  </a>
-</p>
+<br/>
 
----
+## About
 
-# Professional Overview
+I sit at the intersection of **clinical governance** and **technical automation** — currently the **Clinical Governance & Compliance Lead (IRB Secretary)** at **Tata Medical Center, Kolkata**, where I oversee regulatory workflows for 300+ oncology trial protocols. Alongside that, I build the RegTech and geospatial tooling that makes governance work faster and more reliable: automated compliance pipelines, live risk dashboards, and GIS-based spatial analysis.
 
-### Clinical Governance & Compliance Lead (IRB Secretary)
-### RegTech Architect • Spatial Intelligence Systems • Workflow Automation
+- 5.5+ years in clinical trial governance & regulatory affairs (ICMR, CDSCO, NDCT, ICH-GCP)
+- Building automation for audit-readiness, SAE tracking, and compliance reporting
+- Applying GIS / remote sensing to spatial resource and logistics problems
+- Peer reviewer for Elsevier journals (*Computers in Biology and Medicine*, *Computational Biology and Chemistry*)
+- Based in Kolkata, West Bengal, India
 
-I work at the intersection of healthcare governance, geospatial intelligence, compliance engineering, and analytical infrastructure development.
+<br/>
 
-Primary domains include:
+## Focus Areas
 
-- Clinical governance systems
-- IRB workflow automation
-- Regulatory intelligence pipelines
-- GIS and remote sensing systems
-- Spatial logistics modelling
-- Research compliance architecture
-- Operational analytics
-- AI-assisted workflow engineering
+<table>
+<tr>
+<td valign="top" width="50%">
 
----
+**Clinical Governance & RegTech**
+- IRB / protocol workflow automation
+- SAE lifecycle & regulatory waiver tracking
+- NABH audit readiness & SOP standardization
+- Compliance analytics (Power BI, Looker Studio)
 
-# Technical Stack
+</td>
+<td valign="top" width="50%">
 
-<p align="center">
+**Spatial Intelligence**
+- Geospatial analytics with QGIS
+- Remote sensing via Google Earth Engine
+- Graph-based spatial logistics modelling
+- GIS automation & network analysis
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="52" height="52"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="52" height="52"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="52" height="52"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="52" height="52"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="52" height="52"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="52" height="52"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="52" height="52"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="52" height="52"/>
+</td>
+</tr>
+</table>
 
-</p>
+<br/>
 
----
+## Tech Stack
 
-# Spatial Intelligence & Analytical Infrastructure
+<div align="center">
 
-<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="Kotlin" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>
 
-<img src="https://img.shields.io/badge/QGIS-Geospatial_Analytics-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+</div>
 
-<img src="https://img.shields.io/badge/Google_Earth_Engine-Remote_Sensing-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white"/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/GIS-Network_Modelling-0f172a?style=for-the-badge"/>
+![QGIS](https://img.shields.io/badge/QGIS-31363F?style=flat-square&logo=qgis&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-31363F?style=flat-square&logo=googleearthengine&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-31363F?style=flat-square&logo=powerbi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-31363F?style=flat-square&logo=postgresql&logoColor=white)
 
-<img src="https://img.shields.io/badge/Graph_Theory-Spatial_Logistics-7e22ce?style=for-the-badge"/>
+</div>
 
-<img src="https://img.shields.io/badge/Research-Compliance_Analytics-ec4899?style=for-the-badge"/>
+<br/>
 
-</p>
+## GitHub Activity
 
----
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arkendrachoudhury-sys&theme=minimal&hide_border=true&bg_color=ffffff&color=1e293b&line=1e3a8a&point=0f172a&area=true&area_color=94a3b8" width="100%" alt="Contribution Graph"/>
+</div>
 
-# Contribution Overview
+<br/>
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=arkendrachoudhury-sys&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=7c3aed&point=38bdf8&area=true&area_color=7c3aed" 
-    width="100%" 
-    alt="Contribution Graph"
-  />
-</p>
+## Credentials
 
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20,24,30&height=3" 
-    width="100%"
-  />
-</p>
+- GenAI Powered Data Analytics — Tata (Forage), 2026
+- Internal Audit & Risk Assessment — Goldman Sachs (Forage), 2026
+- PG Diploma, Quality Control Biologist — LSSSDC
+- Good Clinical Practice (GCP) Certification — The Global Health Network, 2022
+- Ethics Review of Health Research — NIE ICMR, 2023
 
----
+<br/>
 
-# Research & System Design Focus
-
-```text
-Clinical Governance Systems
-Healthcare Data Engineering
-Spatial Resource Optimization
-GIS Automation
-Compliance Architecture
-Operational Analytics
-Workflow Orchestration
-Graph-Based Infrastructure Intelligence
-Remote Sensing Systems
-AI-Assisted Regulatory Pipelines
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:1e3a8a&height=3" width="100%"/>
+</div>
