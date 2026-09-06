@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e16,40:0f1524,80:1e3a8a,100:d4a537&height=220&section=header&text=Arkendra%20Narayan%20Choudhury&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Clinical%20Governance%20%C2%B7%20RegTech%20%C2%B7%20Spatial%20Intelligence&descAlignY=58&descSize=15&descColor=d4a537" width="100%" alt="Arkendra Narayan Choudhury Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e16,40:0f1524,80:1e3a8a,100:d4a537&height=220&section=header&text=Arkendra%20Narayan%20Choudhury&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Clinical%20Governance%20%C2%B7%20RegTech%20%C2%B7%20Spatial%20Intelligence&descAlignY=58&descSize=14&descColor=d4a537" width="100%" alt="Arkendra Narayan Choudhury Header Banner" />
 
 <br/>
 
@@ -22,51 +22,51 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a537,50:1e3a8a,100:0a0e16&height=80&section=footer" width="100%" alt="Wavy Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a537,50:1e3a8a,100:0a0e16&height=70&section=footer" width="100%" alt="Divider" />
 </div>
 
 <br/>
 
-### 🏛️ About Me
+### Overview
 
 I sit at the intersection of **clinical governance** and **technical automation** — currently serving as the **Clinical Governance & Compliance Lead (IRB Secretary)** at **Tata Medical Center, Kolkata**, overseeing regulatory workflows for **300+ oncology trial protocols**.
 
 Alongside governance leadership, I engineer RegTech and geospatial tooling that drives speed, precision, and audit-readiness across healthcare and logistics systems.
 
-- 📜 **5.5+ Years** in clinical trial governance & regulatory affairs (*ICMR, CDSCO, NDCT, ICH E6 (R3)*)
-- ⚡ **Automated RegTech**: Building pipelines for audit-readiness, SAE lifecycle management, and regulatory compliance
-- 🌐 **Spatial Intelligence**: Applying QGIS & Google Earth Engine to spatial resource and logistics optimization
-- 🔬 **Peer Reviewer**: Reviewing computational biology & healthcare models for *Elsevier* journals (*Computers in Biology and Medicine*, *Computational Biology and Chemistry*)
-- 📍 **Location**: Kolkata, West Bengal, India
+- **Experience**: 5.5+ years in clinical trial governance and regulatory affairs (*ICMR, CDSCO, NDCT, ICH E6 (R3)*)
+- **RegTech Engineering**: Building automated pipelines for audit-readiness, SAE lifecycle management, and regulatory compliance
+- **Spatial Intelligence**: Applying QGIS and Google Earth Engine to spatial resource and logistics optimization
+- **Peer Review**: Reviewing computational biology and healthcare manuscripts for *Elsevier* journals (*Computers in Biology and Medicine*, *Computational Biology and Chemistry*)
+- **Location**: Kolkata, West Bengal, India
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e16,50:1e3a8a,100:d4a537&height=80&section=header" width="100%" alt="Wavy Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e16,50:1e3a8a,100:d4a537&height=70&section=header" width="100%" alt="Divider" />
 </div>
 
 <br/>
 
-### 🎯 Focus Areas
+### Focus Areas
 
-<table width="100%">
+<table width="100%" style="border-collapse: collapse; border: none;">
 <tr>
-<td valign="top" width="50%" style="background-color: #0f1524; padding: 15px; border-radius: 8px;">
+<td valign="top" width="50%" style="background-color: #0f1524; padding: 20px; border-radius: 6px; border: 1px solid rgba(232,236,241,0.09);">
 
-#### 📋 Clinical Governance & RegTech
-- 🔄 **IRB & Protocol Automation**: Workflow acceleration & protocol tracking
-- 🛡️ **SAE Lifecycle**: Regulatory waiver tracking & automated risk reporting
-- 🏥 **NABH Audit Readiness**: Zero non-conformity SOP standardization
-- 📊 **Compliance Analytics**: Live dashboards (*Power BI, Looker Studio*)
+#### Clinical Governance & RegTech
+- **IRB & Protocol Automation**: Workflow acceleration and protocol tracking
+- **SAE Lifecycle**: Regulatory waiver tracking and automated risk reporting
+- **NABH Audit Readiness**: Zero non-conformity SOP standardization
+- **Compliance Analytics**: Executive dashboards in Power BI and Looker Studio
 
 </td>
-<td valign="top" width="50%" style="background-color: #0f1524; padding: 15px; border-radius: 8px;">
+<td valign="top" width="50%" style="background-color: #0f1524; padding: 20px; border-radius: 6px; border: 1px solid rgba(232,236,241,0.09);">
 
-#### 🌍 Spatial Intelligence & GIS
-- 🛰️ **Geospatial Analytics**: Advanced spatial modeling with QGIS
-- 🛰️ **Remote Sensing**: Satellite imagery analysis via Google Earth Engine
-- 🕸️ **Logistics Modeling**: Graph-based network analysis & transport routing
-- ⚙️ **GIS Automation**: Automated spatial processing workflows
+#### Spatial Intelligence & GIS
+- **Geospatial Analytics**: Advanced spatial modeling with QGIS
+- **Remote Sensing**: Satellite imagery analysis via Google Earth Engine
+- **Logistics Modeling**: Graph-based network analysis and transport routing
+- **GIS Automation**: Automated spatial processing workflows
 
 </td>
 </tr>
@@ -75,18 +75,18 @@ Alongside governance leadership, I engineer RegTech and geospatial tooling that 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a537,50:1e3a8a,100:0a0e16&height=80&section=footer" width="100%" alt="Wavy Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a537,50:1e3a8a,100:0a0e16&height=70&section=footer" width="100%" alt="Divider" />
 </div>
 
 <br/>
 
-### 🛠️ Tech Stack & Tooling
+### Tech Stack & Tooling
 
 <div align="center">
 
-| Category | Languages & Frameworks |
+| Category | Technical Ecosystem |
 | :--- | :--- |
-| **Development** | <a href="#" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/></a> &nbsp; <a href="#" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/></a> &nbsp; <a href="#" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React"/></a> &nbsp; <a href="#" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/></a> &nbsp; <a href="#" title="Kotlin"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin"/></a> &nbsp; <a href="#" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5"/></a> &nbsp; <a href="#" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3"/></a> &nbsp; <a href="#" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git"/></a> |
+| **Development** | <a href="#" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="34" height="34" alt="Python"/></a> &nbsp; <a href="#" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="34" height="34" alt="TypeScript"/></a> &nbsp; <a href="#" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="34" height="34" alt="React"/></a> &nbsp; <a href="#" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="34" height="34" alt="Node.js"/></a> &nbsp; <a href="#" title="Kotlin"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="34" height="34" alt="Kotlin"/></a> &nbsp; <a href="#" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="34" height="34" alt="HTML5"/></a> &nbsp; <a href="#" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="34" height="34" alt="CSS3"/></a> &nbsp; <a href="#" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="34" height="34" alt="Git"/></a> |
 
 <br/>
 
@@ -102,16 +102,15 @@ Alongside governance leadership, I engineer RegTech and geospatial tooling that 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e16,50:1e3a8a,100:d4a537&height=80&section=header" width="100%" alt="Wavy Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e16,50:1e3a8a,100:d4a537&height=70&section=header" width="100%" alt="Divider" />
 </div>
 
 <br/>
 
-### 📊 Activity & Contributions
+### Activity & Terrain
 
 <div align="center">
 
-#### 🌾 3D Grass Contribution Terrain
 *Contribution history rendered as 3D terrain landscape — taller, brighter growth marks peak activity.*
 
 <br/>
@@ -128,11 +127,11 @@ Alongside governance leadership, I engineer RegTech and geospatial tooling that 
 
 <br/><br/>
 
-<a href="https://github.com/arkendrachoudhury-sys" title="Profile Details">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkendrachoudhury-sys&theme=2077" width="49%" alt="Profile Details" />
+<a href="https://github.com/arkendrachoudhury-sys" title="Profile Summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkendrachoudhury-sys&theme=2077" width="49%" alt="Profile Summary" />
 </a>
-<a href="https://github.com/arkendrachoudhury-sys" title="Productive Time">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arkendrachoudhury-sys&theme=2077&utcOffset=5.5" width="49%" alt="Productive Time" />
+<a href="https://github.com/arkendrachoudhury-sys" title="Productive Hours">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arkendrachoudhury-sys&theme=2077&utcOffset=5.5" width="49%" alt="Productive Hours" />
 </a>
 
 </div>
@@ -140,5 +139,5 @@ Alongside governance leadership, I engineer RegTech and geospatial tooling that 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e16,50:1e3a8a,100:d4a537&height=120&section=footer" width="100%" alt="Footer Wavy Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e16,50:1e3a8a,100:d4a537&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
