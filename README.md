@@ -23,67 +23,28 @@
 
 ---
 
-### 🏛️ About Me
-
-I sit at the intersection of **clinical governance** and **technical automation** — currently serving as the **Clinical Governance & Compliance Lead (IRB Secretary)** at **Tata Medical Center, Kolkata**, overseeing regulatory workflows for **300+ oncology trial protocols**.
-
-Alongside governance leadership, I engineer RegTech and geospatial tooling that drives speed, precision, and audit-readiness across healthcare and logistics systems.
-
-- 📜 **5.5+ Years** in clinical trial governance & regulatory affairs (*ICMR, CDSCO, NDCT, ICH E6 (R3)*)
-- ⚡ **Automated RegTech**: Building pipelines for audit-readiness, SAE lifecycle management, and regulatory compliance
-- 🌐 **Spatial Intelligence**: Applying QGIS & Google Earth Engine to spatial resource and logistics optimization
-- 🔬 **Peer Reviewer**: Reviewing computational biology & healthcare models for *Elsevier* journals (*Computers in Biology and Medicine*, *Computational Biology and Chemistry*)
-- 📍 **Location**: Kolkata, West Bengal, India
-
-<br/>
-
----
-
-### 🎯 Focus Areas
+### About Me
 
 <table width="100%">
 <tr>
-<td valign="top" width="50%" style="background-color: #0f1524; padding: 15px; border-radius: 8px;">
+<td style="background-color: #0f1524; padding: 20px; border-radius: 8px; border-left: 4px solid #d4a537;">
 
-#### 📋 Clinical Governance & RegTech
-- 🔄 **IRB & Protocol Automation**: Workflow acceleration & protocol tracking
-- 🛡️ **SAE Lifecycle**: Regulatory waiver tracking & automated risk reporting
-- 🏥 **NABH Audit Readiness**: Zero non-conformity SOP standardization
-- 📊 **Compliance Analytics**: Live dashboards (*Power BI, Looker Studio*)
+I work in clinical governance and regulatory affairs — currently as Clinical Governance & Compliance Lead (IRB Secretary) at Tata Medical Center, Kolkata, handling protocol review and audit-readiness for oncology trials. I also do occasional peer review for a couple of Elsevier journals in computational biology.
 
-</td>
-<td valign="top" width="50%" style="background-color: #0f1524; padding: 15px; border-radius: 8px;">
+Outside of that, I build small, mostly offline-first tools for public health problems I run into in this line of work — health record digitization, disease surveillance, and pharmacovigilance, mainly on Android and TypeScript. Nothing polished or large-scale, just practical tools for gaps I've noticed: paper records that never get digitized, health workers without reliable internet, and disease monitoring that lags behind what's actually happening on the ground.
 
-#### 🌍 Spatial Intelligence & GIS
-- 🛰️ **Geospatial Analytics**: Advanced spatial modeling with QGIS
-- 🛰️ **Remote Sensing**: Satellite imagery analysis via Google Earth Engine
-- 🕸️ **Logistics Modeling**: Graph-based network analysis & transport routing
-- ⚙️ **GIS Automation**: Automated spatial processing workflows
+Based in Kolkata, West Bengal.
 
 </td>
 </tr>
 </table>
 
-<br/>
-
----
-
-### 🛠️ Tech Stack & Tooling
-
 <div align="center">
 
-| Category | Languages & Frameworks |
-| :--- | :--- |
-| **Development** | <a href="#" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/></a> &nbsp; <a href="#" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/></a> &nbsp; <a href="#" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React"/></a> &nbsp; <a href="#" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/></a> &nbsp; <a href="#" title="Kotlin"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin"/></a> &nbsp; <a href="#" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5"/></a> &nbsp; <a href="#" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3"/></a> &nbsp; <a href="#" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git"/></a> |
-
-<br/>
-
-<a href="#" title="QGIS"><img src="https://img.shields.io/badge/QGIS-31363F?style=for-the-badge&logo=qgis&logoColor=589632" alt="QGIS"/></a>
-<a href="#" title="Google Earth Engine"><img src="https://img.shields.io/badge/Google_Earth_Engine-31363F?style=for-the-badge&logo=googleearthengine&logoColor=4285F4" alt="Google Earth Engine"/></a>
-<a href="#" title="Power BI"><img src="https://img.shields.io/badge/Power_BI-31363F?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI"/></a>
-<a href="#" title="SQL / PostgreSQL"><img src="https://img.shields.io/badge/SQL-31363F?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL"/></a>
-<a href="#" title="REDCap"><img src="https://img.shields.io/badge/REDCap-31363F?style=for-the-badge&logo=redcap&logoColor=B31B1B" alt="REDCap"/></a>
-<a href="#" title="Google Apps Script"><img src="https://img.shields.io/badge/Apps_Script-31363F?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google Apps Script"/></a>
+<img src="https://img.shields.io/badge/Clinical_Governance-31363F?style=for-the-badge&logoColor=d4a537" alt="Clinical Governance"/>
+<img src="https://img.shields.io/badge/IRB_%26_Regulatory-31363F?style=for-the-badge&logoColor=d4a537" alt="IRB & Regulatory"/>
+<img src="https://img.shields.io/badge/Offline--First_Tools-31363F?style=for-the-badge&logoColor=d4a537" alt="Offline-First Tools"/>
+<img src="https://img.shields.io/badge/Public_Health-31363F?style=for-the-badge&logoColor=d4a537" alt="Public Health"/>
 
 </div>
 
@@ -91,12 +52,122 @@ Alongside governance leadership, I engineer RegTech and geospatial tooling that 
 
 ---
 
-### 📊 Premium GitHub Activity Log
+### Project Objectives
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%" style="background-color: #0f1524; padding: 18px; border-radius: 8px; border-top: 3px solid #1e3a8a;">
+
+#### Digitize clinical information
+
+Build practical tools that reduce dependence on paper records and make health information easier to capture, structure, retrieve, and use.
+
+</td>
+
+<td valign="top" width="50%" style="background-color: #0f1524; padding: 18px; border-radius: 8px; border-top: 3px solid #d4a537;">
+
+#### Strengthen frontline health systems
+
+Design systems that continue to function when connectivity is unreliable and field-level reporting is fragmented.
+
+- Offline-first workflows with local data persistence
+- Practical synchronization and data portability
+- Lightweight systems designed around real operational constraints
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%" style="background-color: #0f1524; padding: 18px; border-radius: 8px; border-top: 3px solid #d4a537;">
+
+#### Improve pharmacovigilance and compliance
+
+Make safety information easier to capture, review, track, and integrate into clinical research and regulatory workflows.
+
+</td>
+
+<td valign="top" width="50%" style="background-color: #0f1524; padding: 18px; border-radius: 8px; border-top: 3px solid #1e3a8a;">
+
+#### Detect health risks earlier
+
+Build surveillance systems that surface disease signals closer to where they emerge, reducing delays caused by fragmented reporting.
+
+- Disease surveillance and outbreak monitoring; Field-oriented data capture; Risk monitoring designed for distributed environments
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%" style="background-color: #0f1524; padding: 18px; border-radius: 8px; border-top: 3px solid #1e3a8a;">
+
+#### Understand risk spatially
+
+Use geographic and environmental data to identify patterns that are difficult to see in conventional tabular datasets.
+
+Based on geospatial risk inference; analysis; Environmental and epidemiological data integration
+
+</td>
+
+<td valign="top" width="50%" style="background-color: #0f1524; padding: 18px; border-radius: 8px; border-top: 3px solid #d4a537;">
+
+#### Connect data to decisions
+
+Develop practical data workflows that make information more structured, traceable, and useful across healthcare, research, surveillance, and governance.
+
+- Clinical and regulatory data workflows
+- Research data collection and management
+- Analytics and decision-support systems
+- Bridging clinical, public-health, and spatial datasets
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<br/>
+
+---
+
+### Tech Stack & Tooling
 
 <div align="center">
 
-#### 🌾 3D Grass Contribution Terrain
-*Contribution history rendered as 3D terrain landscape — taller, brighter growth marks peak activity.*
+| Category | Languages, Frameworks & Platforms |
+| :--- | :--- |
+| **Languages & Frameworks** | <a href="#" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/></a> &nbsp; <a href="#" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/></a> &nbsp; <a href="#" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React"/></a> &nbsp; <a href="#" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/></a> &nbsp; <a href="#" title="Kotlin"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin"/></a> &nbsp; <a href="#" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5"/></a> &nbsp; <a href="#" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3"/></a> &nbsp; <a href="#" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git"/></a> &nbsp; <a href="#" title="Power BI"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="36" height="36" alt="Power BI"/></a> &nbsp; <a href="#" title="REDCap"><img src="https://cdn.simpleicons.org/redcap/B31B1B" width="36" height="36" alt="REDCap"/></a> |
+| **GIS & Analytics** | <a href="#" title="QGIS"><img src="https://cdn.simpleicons.org/qgis/589632" width="36" height="36" alt="QGIS"/></a> &nbsp; <a href="#" title="Google Earth Engine"><img src="https://cdn.simpleicons.org/googleearthengine/4285F4" width="36" height="36" alt="Google Earth Engine"/></a> &nbsp; <a href="#" title="PostgreSQL / SQL"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="SQL"/></a> &nbsp; <a href="#" title="Google Apps Script"><img src="https://cdn.simpleicons.org/googleappsscript/4285F4" width="36" height="36" alt="Google Apps Script"/></a> |
+
+</div>
+
+<br/>
+
+---
+
+### Engineering Focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Offline--First-0f1524?style=for-the-badge&logoColor=d4a537" alt="Offline First"/>
+<img src="https://img.shields.io/badge/Clinical_Data-0f1524?style=for-the-badge&logoColor=d4a537" alt="Clinical Data"/>
+<img src="https://img.shields.io/badge/Health_Surveillance-0f1524?style=for-the-badge&logoColor=d4a537" alt="Health Surveillance"/>
+<img src="https://img.shields.io/badge/Pharmacovigilance-0f1524?style=for-the-badge&logoColor=d4a537" alt="Pharmacovigilance"/>
+<img src="https://img.shields.io/badge/Spatial_Intelligence-0f1524?style=for-the-badge&logoColor=d4a537" alt="Spatial Intelligence"/>
+<img src="https://img.shields.io/badge/RegTech-0f1524?style=for-the-badge&logoColor=d4a537" alt="RegTech"/>
+
+</div>
+
+<br/>
+
+---
+
+### GitHub Activity
+
+<div align="center">
+
+#### 3D Contribution Terrain
+
+*Contribution history rendered as a 3D terrain landscape — taller, brighter growth marks peak activity.*
 
 <br/>
 
@@ -106,36 +177,12 @@ Alongside governance leadership, I engineer RegTech and geospatial tooling that 
 
 <br/><br/>
 
-#### 📈 Activity Metrics & Analytics Graph
 
-<br/>
+### Credentials & Certifications
 
-<a href="https://github.com/arkendrachoudhury-sys" title="GitHub Activity Graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arkendrachoudhury-sys&theme=minimal&hide_border=true&bg_color=0a0e16&color=d4a537&line=1e3a8a&point=d4a537&area=true&area_color=1e3a8a" width="100%" alt="Arkendra's GitHub Contribution Activity Graph" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/arkendrachoudhury-sys" title="GitHub Stats Overview">
-  <img src="https://github-readme-stats.vercel.app/api?username=arkendrachoudhury-sys&show_icons=true&theme=dark&bg_color=0a0e16&title_color=d4a537&text_color=e2e8f0&icon_color=d4a537&border_color=1e3a8a" height="165" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/arkendrachoudhury-sys" title="GitHub Streak Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arkendrachoudhury-sys&theme=dark&background=0a0e16&ring=d4a537&fire=d4a537&currStreakLabel=d4a537&border=1e3a8a" height="165" alt="GitHub Streak Stats" />
-</a>
-
-</div>
-
-<br/>
-
----
-
-### 🎓 Credentials & Certifications
-
-- 🏅 **GenAI Powered Data Analytics** — Tata (*Forage*), 2026
-- 🏅 **Internal Audit & Risk Assessment** — Goldman Sachs (*Forage*), 2026
-- 📜 **PG Diploma, Quality Control Biologist** — LSSSDC
-- 🏥 **Good Clinical Practice (GCP) Certification** — The Global Health Network, 2022
-- ⚕️ **Ethics Review of Health Research** — NIE ICMR, 2023
+- **PG Diploma, Quality Control Biologist** — LSSSDC
+- **Good Clinical Practice (GCP) Certification** — The Global Health Network, 2022
+- **Ethics Review of Health Research** — NIE ICMR, 2023
 
 <br/>
 
