@@ -10,9 +10,6 @@
 <a href="https://orcid.org/0009-0002-6751-5351" title="View ORCID Profile">
   <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
 </a>
-<a href="mailto:arkendrachoudhury@gmail.com" title="Send Email">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
 <a href="https://github.com/arkendrachoudhury-sys" title="Explore GitHub Profile">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
